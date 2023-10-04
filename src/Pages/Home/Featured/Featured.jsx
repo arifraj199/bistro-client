@@ -5,7 +5,7 @@ import Buttons from "../../../components/Buttons";
 
 const Featured = () => {
   return (
-    <section className="my-20 featured-item text-white pt-10">
+    <section className="my-20 featured-item bg-fixed text-white pt-10">
       <SectionTitle
         subheading="Check it out"
         heading="From our menu"
